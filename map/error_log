@@ -1,0 +1,54 @@
+[30-Apr-2015 22:15:51 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 207
+[30-Apr-2015 22:34:49 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 120
+[30-Apr-2015 22:34:49 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 121
+[30-Apr-2015 22:34:49 America/Chicago] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/look4ter/public_html/php7294/Ass14/map/graphs/gChart.php on line 475
+[30-Apr-2015 22:34:49 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 207
+[30-Apr-2015 22:35:42 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 120
+[30-Apr-2015 22:35:42 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 121
+[30-Apr-2015 22:35:42 America/Chicago] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/look4ter/public_html/php7294/Ass14/map/graphs/gChart.php on line 475
+[30-Apr-2015 22:35:42 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 207
+[30-Apr-2015 22:37:34 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 120
+[30-Apr-2015 22:37:34 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 121
+[30-Apr-2015 22:37:34 America/Chicago] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/look4ter/public_html/php7294/Ass14/map/graphs/gChart.php on line 475
+[30-Apr-2015 22:37:34 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 207
+[30-Apr-2015 22:56:50 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 176
+[30-Apr-2015 22:57:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 176
+[30-Apr-2015 22:57:15 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 176
+[30-Apr-2015 22:57:17 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 176
+[30-Apr-2015 22:59:49 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 176
+[30-Apr-2015 23:01:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 198
+[30-Apr-2015 23:01:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 198
+[30-Apr-2015 23:01:46 America/Chicago] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 120
+[30-Apr-2015 23:01:46 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 121
+[30-Apr-2015 23:01:46 America/Chicago] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/look4ter/public_html/php7294/Ass14/map/graphs/gChart.php on line 475
+[30-Apr-2015 23:01:46 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 219
+[30-Apr-2015 23:02:33 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 176
+[30-Apr-2015 23:02:35 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 176
+[30-Apr-2015 23:04:22 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 220
+[30-Apr-2015 23:06:22 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 227
+[30-Apr-2015 23:11:31 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 227
+[30-Apr-2015 23:12:24 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 227
+[30-Apr-2015 23:13:35 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 182
+[30-Apr-2015 23:14:20 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 225
+[30-Apr-2015 23:15:00 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 226
+[30-Apr-2015 23:15:28 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 226
+[30-Apr-2015 23:16:52 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 226
+[30-Apr-2015 23:17:26 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 226
+[30-Apr-2015 23:18:00 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 228
+[30-Apr-2015 23:18:21 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 228
+[30-Apr-2015 23:20:44 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 265
+[30-Apr-2015 23:21:35 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 265
+[30-Apr-2015 23:24:19 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 265
+[30-Apr-2015 23:26:26 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 266
+[30-Apr-2015 23:27:03 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 266
+[30-Apr-2015 23:38:33 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 266
+[30-Apr-2015 23:40:33 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 267
+[30-Apr-2015 23:40:57 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 267
+[30-Apr-2015 23:41:52 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 267
+[30-Apr-2015 23:42:56 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 266
+[30-Apr-2015 23:43:14 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 266
+[30-Apr-2015 23:43:19 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 266
+[30-Apr-2015 23:43:35 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 267
+[30-Apr-2015 23:44:18 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 267
+[30-Apr-2015 23:45:29 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 267
+[30-Apr-2015 23:45:42 America/Chicago] PHP Fatal error:  Call to undefined function draw_bar_graph2() in /home/look4ter/public_html/php7294/Ass14/map/firstMap.php on line 267

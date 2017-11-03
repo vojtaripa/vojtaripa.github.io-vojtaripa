@@ -1,0 +1,64 @@
+<head>
+    <script>
+        function RecalculateElapsedTime () {
+            var startHSelect = document.getElementById ("starttimehour");
+            var startMSelect = document.getElementById ("starttimemin");
+            var endHSelect = document.getElementById ("endtimehour");
+            var endMSelect = document.getElementById ("endtimemin");
+				// convert string values to integers
+			var startH = parseInt (startHSelect.value);
+			var startM = parseInt (startMSelect.value);
+			var endH = parseInt (endHSelect.value);
+			var endM = parseInt (endMSelect.value);
+				// create Date objects from start and end
+			var start = new Date ();	// the current date and time, in local time.
+			var end = new Date ();	// the current date and time, in local time.
+			start.setHours (startH, startM);
+			end.setHours (endH, endM);
+			var elapsedInMS = end.getTime () - start.getTime ();
+			var elapsedSpan = document.getElementById ("elapsed");
+			elapsedSpan.innerHTML = "" + (elapsedInMS / 1000 / 60);
+        }
+ 
+        function Init () {
+			RecalculateElapsedTime ();
+        }
+    </script>
+</head>
+<body onload="Init ()">
+	h:
+	<select id="starttimehour" name="starttimehour" onchange="RecalculateElapsedTime ()" class="selectboxkl">
+		<option value="00">00</option>
+		<option value="01">01</option>
+		<option value="02">02</option>
+		<option value="03">03</option>	
+		<option value="04">04</option>							
+	</select>
+	m:
+	<select id="starttimemin" name="starttimemin" onchange="RecalculateElapsedTime ()" class="selectboxkl">
+		<option value="00">00</option>
+		<option value="01">01</option>
+		<option value="02">02</option>
+		<option value="03">03</option>	
+		<option value="04">04</option>							
+	</select>
+	-
+	h:
+	<select id="endtimehour" name="endtimehour" onchange="RecalculateElapsedTime ()" class="selectboxkl">
+		<option value="00">00</option>
+		<option value="01">01</option>
+		<option value="02">02</option>
+		<option value="03">03</option>	
+		<option value="04">04</option>							
+	</select>
+	m:
+	<select id="endtimemin" name="endtimemin" onchange="RecalculateElapsedTime ()" class="selectboxkl">
+		<option value="00">00</option>
+		<option value="01">01</option>
+		<option value="02">02</option>
+		<option value="03">03</option>	
+		<option value="04">04</option>							
+	</select>
+	<br /><br />
+	Elapsed time in mins: <span id="elapsed"></span>
+</body>
