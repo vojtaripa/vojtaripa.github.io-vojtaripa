@@ -2,7 +2,7 @@
 
 
 <!--HTML-->
-<!DOCTYPE HTML>
+
 <!--
    Spectral by HTML5 UP
    html5up.net | @ajlkn
@@ -111,7 +111,7 @@
 				  <br><br>
                   <p><b>Please see my resume here:</b></p>
                   <a href="Vojta Ripa Resume 2018 simple.htm" class="button big special">My Resume</a>
-               </header>
+               
                <ul class="icons major">
                   <li><span class="icon fa-code major style3"><span class="label">Code</span></span></li>
                   <li><span class="icon fa-laptop major style1"><span class="label">Laptop</span></span></li>
@@ -120,8 +120,7 @@
                   <li><span class="icon fa-html5 major style3"><span class="label">Database</span></span></li>
                </ul>
 			   </center>
-            </div>
-         </section>
+        
          <!-- Projects -->
          <section class="wrapper style5" id="projects">
          <div class="inner" >
@@ -219,7 +218,7 @@
                      <td>&nbsp;</td>
                      <td>&nbsp;</td>
                   </tr>
-         </div>
+         
          </table>
 		 <!--****************************************************************************** -->
 		 <br>
@@ -271,7 +270,7 @@
          <td>Hosted directly from your GitHub repository. Just edit, push, and your changes are live. </td>
          </tr>
          </table>
-      </div>
+      
       </section>	
       <!--Comments -->
       <section id="cta" class="wrapper style4">
